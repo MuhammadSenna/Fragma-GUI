@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+*.out
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (if applicable)
+.vscode/
+
+# Gradio cache
+gradio_cached_examples/
+.gradio

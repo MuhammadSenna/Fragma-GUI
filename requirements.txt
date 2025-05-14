@@ -2,3 +2,7 @@ gradio
 joblib
 pandas
 scikit-learn>=1.0
+tensorflow
+pickle
+re
+numpy
